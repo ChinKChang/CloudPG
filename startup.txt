@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gunicorn --bind=0.0.0.0 --timeout 600 game.py:app
+=======
+gunicorn --bind=0.0.0.0 --timeout 600 game1.py:app
+>>>>>>> 786fd99929af68ffb20309e325fbd4de1f3571d4
